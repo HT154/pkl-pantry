@@ -1,4 +1,10 @@
 {
   "schemaVersion": 1,
-  "resolvedDependencies": {}
+  "resolvedDependencies": {
+    "package://pkg.pkl-lang.org/pkl-pantry/yapp@0": {
+      "type": "local",
+      "uri": "projectpackage://pkg.pkl-lang.org/pkl-pantry/yapp@0.1.0",
+      "path": "../yapp"
+    }
+  }
 }
